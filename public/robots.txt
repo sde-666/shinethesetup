@@ -1,0 +1,6 @@
+# Robots.txt for Shine the Setup
+User-agent: *
+Allow: /
+
+# Direct search bots to the official XML sitemap
+Sitemap: https://shinethesetup.com/sitemap.xml
