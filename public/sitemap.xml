@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  
-  <!-- Primary Homepage: Cheapest Website & App Development for Education & Coaching Institutes -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shinethesetup.com/</loc>
+    <loc>https://shinethesetup.vercel.app/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Services: Institute Web Portals, Student Android Mobile Apps, Online CBT Exam Engines -->
-  <url>
-    <loc>https://shinethesetup.com/#services</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Transparent Pricing Plans: Lowest Price Guarantee, Zero Monthly Fees, 100% Code Ownership -->
-  <url>
-    <loc>https://shinethesetup.com/#pricing</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Cost Comparison & FAQ: Why Shine the Setup is the Cheapest Solution for Education -->
-  <url>
-    <loc>https://shinethesetup.com/#why-cheapest</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Portfolio & Live LMS Case Studies (Featuring skilldotpy.com) -->
-  <url>
-    <loc>https://shinethesetup.com/#portfolio</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- About: Founders, Story, Mission for Educational Digital Transformation -->
-  <url>
-    <loc>https://shinethesetup.com/#about</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Contact & Instant Quotation Funnel -->
-  <url>
-    <loc>https://shinethesetup.com/#contact</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
 </urlset>
